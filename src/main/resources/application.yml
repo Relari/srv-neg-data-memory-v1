@@ -1,0 +1,9 @@
+application.api.path: '/srv/neg/v1/data-memories'
+
+spring:
+  data:
+    redis:
+      host: localhost
+      port: 6379
+    #password: tu_contraseña_si_aplica
+    #timeout: 2000ms
